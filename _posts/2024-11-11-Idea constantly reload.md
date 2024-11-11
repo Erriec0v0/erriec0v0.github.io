@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Idea constantly reload projects"
+title: "IDEA constantly reloads projects"
 date: 2024-11-11
 ---
 
