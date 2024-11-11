@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "IDEA constantly reloads projects"
 date: 2024-11-11
 ---
