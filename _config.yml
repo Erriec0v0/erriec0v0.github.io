@@ -1,1 +1,5 @@
+title: Erriec's daily blog
+description: Record some questions and knowledge that I met or learned in my daily work
+baseurl: "" 
+url: "https://erriec0v0.github.io"
 theme: jekyll-theme-minimal
